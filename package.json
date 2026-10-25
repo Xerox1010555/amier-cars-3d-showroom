@@ -1,0 +1,17 @@
+{
+  "name": "amier-cars-3d-showroom",
+  "version": "1.0.0",
+  "description": "AMIER CARS - private collection 3D showroom (7 vehicles, three.js, EN/AR). Dev deps were used for model optimization tooling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "jimp": "^1.6.0",
+    "playwright-core": "^1.64.1"
+  }
+}

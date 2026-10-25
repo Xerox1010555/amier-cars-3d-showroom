@@ -1,0 +1,11 @@
+node_modules/
+.vscode/
+.server.log
+*.zip
+test-shots/
+
+# local dev
+node_modules/
+.vscode/
+*.log
+shots/
